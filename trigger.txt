@@ -1,2 +1,2 @@
 chivalry1314/dify-api:a75970169f19ff106974c4217bb4b3400c650a48 registry.cn-hangzhou.aliyuncs.com/gkzx2024/dify-gkzx-api:202407081133
-langgenius/dify-api:0.6.13 registry.cn-shanghai.aliyuncs.com/dify_images_pbh/dify-api:0.6.13
+langgenius/dify-web:0.6.13 registry.cn-shanghai.aliyuncs.com/dify_images_pbh/dify-web:0.6.13
